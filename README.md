@@ -34,10 +34,10 @@
 
 ##### Add Users
 
-![Add Users](#)
+![Add Users](https://github.com/companioco/javascript-assignment/blob/master/images/add-user.png?raw=true)
 
 ##### Users list
-![User List](#)
+![User List](https://github.com/companioco/javascript-assignment/blob/master/images/user-list.png?raw=true)
 
 ##### Confirm Status Change
-![Confirm Status Change](#)
+![Confirm Status Change](https://github.com/companioco/javascript-assignment/blob/master/images/confirm-status-change.png?raw=true)
